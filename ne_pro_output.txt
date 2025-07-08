@@ -1,0 +1,504 @@
+Device: /dev/ttyS31
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS30
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS29
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS28
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS27
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS26
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS25
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS24
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS23
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS22
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS21
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS20
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS19
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS18
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS17
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS16
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS15
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS14
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS13
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS12
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS11
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS10
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS9
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS8
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS7
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS6
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS5
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS4
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS3
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS2
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS1
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyS0
+  Description: n/a
+  HWID: n/a
+  VID: None
+  PID: None
+  Serial Number: None
+  Manufacturer: None
+  Product: None
+  Interface: None
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: Could not configure port: (5, 'Input/output error')
+----------------------------------------
+Device: /dev/ttyUSB3
+  Description: D-Link DWM-156 - COM(data_if)
+  HWID: USB VID:PID=2001:7D01 LOCATION=1-1:1.5
+  VID: 8193
+  PID: 32001
+  Serial Number: None
+  Manufacturer: D-Link,Inc
+  Product: D-Link DWM-156
+  Interface: COM(data_if)
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: [Errno 32] Broken pipe
+----------------------------------------
+Device: /dev/ttyUSB2
+  Description: D-Link DWM-156 - COM(data_if)
+  HWID: USB VID:PID=2001:7D01 LOCATION=1-1:1.4
+  VID: 8193
+  PID: 32001
+  Serial Number: None
+  Manufacturer: D-Link,Inc
+  Product: D-Link DWM-156
+  Interface: COM(data_if)
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: [Errno 32] Broken pipe
+----------------------------------------
+Device: /dev/ttyUSB1
+  Description: D-Link DWM-156 - COM(data_if)
+  HWID: USB VID:PID=2001:7D01 LOCATION=1-1:1.3
+  VID: 8193
+  PID: 32001
+  Serial Number: None
+  Manufacturer: D-Link,Inc
+  Product: D-Link DWM-156
+  Interface: COM(data_if)
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: [Errno 16] could not open port /dev/ttyUSB1: [Errno 16] Device or resource busy: '/dev/ttyUSB1'
+----------------------------------------
+Device: /dev/ttyUSB0
+  Description: D-Link DWM-156 - COM(comm_if)
+  HWID: USB VID:PID=2001:7D01 LOCATION=1-1:1.2
+  VID: 8193
+  PID: 32001
+  Serial Number: None
+  Manufacturer: D-Link,Inc
+  Product: D-Link DWM-156
+  Interface: COM(comm_if)
+  IMEI: None
+  IMSI: None
+  Trying AT command...
+  AT Response: Error: [Errno 16] could not open port /dev/ttyUSB0: [Errno 16] Device or resource busy: '/dev/ttyUSB0'
+----------------------------------------
