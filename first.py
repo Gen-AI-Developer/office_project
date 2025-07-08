@@ -14,17 +14,16 @@ def extract_sms():
     sm.Init()
     sms_list = []
     for folder in [0, 10]:  # 0: Inbox, 10: Outbox
-        status = sm.GetSMSStatus()
-        remain = status['SIMUsed'] + status['PhoneUsed']
         start = True
-        while remain > 0:
-            if start:
-                sms = sm.GetNextSMS(Folder=folder, Start=True)
+        while True:
+            try:
+                sms = sm.GetNextSMS(Folder=folder, Start=start)
+                sms_list.extend(sms)
                 start = False
-            else:
-                sms = sm.GetNextSMS(Folder=folder, Start=False)
-            sms_list.extend(sms)
-            remain -= len(sms)
+            except gammu.ERR_EMPTY:
+                break
+            except gammu.GSMError:
+                break
     return sms_list
 
 def get_all_contacts():
